@@ -2,7 +2,7 @@
 
 ## Pendahuluan
 
-Repository ini berisi analisis pasar saham menggunakan Python, direproduksi dan diperbaiki dari tutorial online. Tujuan utama proyek ini adalah untuk mempelajari konsep-konsep analisis keuangan dan visualisasi data, serta meningkatkan keterampilan pemrograman Python saya.
+Repository ini berisi analisis pasar saham menggunakan Python, direproduksi dan diperbaiki dari tutorial online. Tujuan utama proyek ini adalah untuk mempelajari konsep-konsep analisis keuangan dan visualisasi data, serta meningkatkan keterampilan pemrograman Python.
 
 ## Dataset
 
